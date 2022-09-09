@@ -1,0 +1,40 @@
+h1{
+	color: blue; 
+	text-align : center;
+	font-family:verdana;
+}
+
+p{ 
+color: red;
+background-color : silver;
+font-family:verdana; 
+border-style: solid;
+border-width: 2px;
+opacity:4.0;
+padding: 20px;
+}
+
+#paragraphe1 {color : green}
+#paragraphe1 {text-align:left}
+#paragraphe1 {background-color:white}
+
+#paragraphe2 {color : blue}
+#paragraphe2 {text-align:left}
+#paragraphe2 {background-color:white}
+
+
+
+div{
+	text-align:center;
+}
+
+.imp {color: green; border-width: 3px; border-style:dotted;}
+
+#autre {color:blue;border-width:5px; border-style:dashed; margin: 40px}
+
+
+
+body { background-image : url("https://jooinn.com/images/dark-cloudy-sky-29.jpg"); opacity:2.0;
+
+
+
